@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 I am a fourth-year PhD student in the [Department of Computer Science, University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), and expect to graduate in Early of 2025.
 
 My primary focus is on decision-making problems under uncertainty with rich (geometric and combinatorial) structures. I am also working on developing incentive schemes to encourage collaboration among learning agents.
