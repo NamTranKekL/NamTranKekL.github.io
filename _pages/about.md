@@ -29,4 +29,5 @@ I was fortunate to visit [Nicolò Cesa-Bianchi's](https://cesa-bianchi.di.unimi.
 
 ## Contact
 Institute Email: nam.p.tran -at- warwick.ac.uk
+
 Personal Email: nam.tp9038 -at- gmail.com
