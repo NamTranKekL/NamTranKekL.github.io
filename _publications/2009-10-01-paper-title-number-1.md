@@ -3,7 +3,7 @@ title: "Symmetric Linear Bandits with Hidden Symmetry"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'aaaaaaa'
 date: 2024
 venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
 paperurl: 'https://arxiv.org/abs/2405.13899'
