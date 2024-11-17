@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Symmetric Linear Bandits with Hidden Symmetry"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-1
