@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-1
 excerpt: 'something here'
 date: 2024-10-01
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
+paperurl: 'https://arxiv.org/abs/2405.13899'
+citation: 'Nam Phuong Tran, The Anh Ta, Debmalya Mandal, Long Tran-Thanh. (2024). &quot;Symmetric Linear Bandits with Hidden Symmetry.&quot; <i>Annual Conference on Neural Information Processing Systems.'
 ---
 
 dasdada
