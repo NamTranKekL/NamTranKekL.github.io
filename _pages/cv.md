@@ -26,5 +26,5 @@ Skills
 
 Service
 ======
-* Volunteering: AAMAS 2022  
+* Volunteering: AAMAS 2023  
 * Reviewer: NeurIPS 2022, JAAMAS 2023, NeurIPS 2024
