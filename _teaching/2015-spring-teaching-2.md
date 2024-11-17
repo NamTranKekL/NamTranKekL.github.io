@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Foundations of Computing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Postgraduate course"
+permalink: /teaching/2014-spring-teaching-2
+venue: "University of Warwick, Department of Computer Science"
+location: "Coventry, Warwick"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was a Senior Graduate Teaching Assistant for [this module](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs917/) from 2022 to 2024. My responsibilities included running weekly labs for small groups of students, marking, and tackling questions related to the subject.
